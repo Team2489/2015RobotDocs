@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Day 2"
+date:   2015-01-04 19:35:21
+categories: jekyll update
+---
+Today, we met via Google Hangout briefly. We decided to prototype several types
+of claws, as well as an elevator. Claws could be both active and passive. We
+also had the idea of a curved claw, that could then pick up both totes and fit
+snugly around a recycle bin.
