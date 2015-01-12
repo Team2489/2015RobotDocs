@@ -1,11 +1,11 @@
 # Site settings
 title: Insomniacs Documentation
-email: vigneshv@gmail.com
+email: team2489@googlegroups.com
 description: > # this means to ignore newlines until "baseurl:"
   This is the FRC Team 2489 Documentation.
 baseurl: "/2015RobotDocs" # the subpath of your site, e.g. /blog/
 url: "http://yourdomain.com" # the base hostname & protocol for your site
-github_username:  vigneshv59
+github_username: Team2489
 
 # Build settings
 markdown: redcarpet
