@@ -37,9 +37,11 @@ sliding mechanism for testing. Tasks left include:
 * Mount winch and cord, test.
 
 The elevator prototype should be done by Sunday.
-<img src={{ site.baseurl }}{{ post.url }}/images/elevator_prototype_frame.JPG width="500">
+
+<img src={{ site.baseurl }}{{ post.url }}/images/elevator_prototype_frame.JPG width="400">
 
 Additionally, we began with some motor calculations for both picking up 4 totes
 at once and 1 tote at a time. See the calculations below for more detail.
-<img src={{ site.baseurl }}{{ post.url }}/images/motor_calcs.JPG width="500">
+
+<img src={{ site.baseurl }}{{ post.url }}/images/motor_calcs.JPG width="400">
 
