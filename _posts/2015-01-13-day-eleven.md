@@ -3,17 +3,12 @@ layout: post
 title:  "Day 11"
 date:   2015-01-13 19:35:21
 categories: jekyll update
-excerpt: The programming and electronics team experimented with basic programs to run on the tester bot. the new programmers tried to drive the robot with two joysticks rather than the one joystick template program. the team attempted to install opencv -- the vision detection library -- but installation failed due to issues with the library's code. the assembly embedded in the code did not run properly. By Friday, we should have vision software running.
+excerpt: The programming and electronics team experimented with basic programs to run on the tester bot. the new programmers tried to drive the robot with two joysticks rather than the one joystick template program. The team attempted to install opencv -- the vision detection library -- but installation failed due to issues with the library's code. The assembly embedded in the code did not run properly. By Friday, we should have vision software running.
 
 ---
 ### Programming / Electronics
 
-The programming and electronics team experimented with basic programs to run on
-the tester bot. the new programmers tried to drive the robot with two joysticks
-rather than the one joystick template program. the team attempted to install
-opencv -- the vision detection library -- but installation failed due to issues
-with the library's code. the assembly embedded in the code did not run properly.
-by friday, we should have vision software running.
+The programming and electronics team experimented with basic programs to run on the tester bot. The new programmers tried to drive the robot with two joysticks rather than the one joystick template program. The team attempted to install OpenCV -- the vision detection library -- but installation failed due to issues with the library's code. The assembly embedded in the code did not run properly. By Friday, we should have vision software running.
 
 ### Chassis
 
