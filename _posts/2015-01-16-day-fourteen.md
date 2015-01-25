@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Day 16"
-date:   2015-01-14 19:35:21
+title:  "Day 14"
+date:   2015-01-16 19:35:21
 categories: jekyll update
 excerpt: Today, the elevator and claw sub-teams continued to work on the elevator prototype that was put together yesterday. The claw was lowered so that is able to lift a tote from its initial position. We also strengthened the claw by adding more contact points. This allowed it to lift two totes.
 ---
-## Day 16
+## Day 14
 
 Today, the elevator and claw sub-teams continued to work on the elevator
 prototype that was put together yesterday. The claw was lowered so that is able
