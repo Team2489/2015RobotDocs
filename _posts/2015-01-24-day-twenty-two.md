@@ -68,7 +68,7 @@ Also, Dominic brought spinach and cheese packet-things during the meeting. For
 this act of generosity, he received the below medal. Seriously though, they were
 delicious. Thanks Dominic!
 
-<img src={{ site.baseurl }}{{ post.url }}/images/dominic.JPG width="400">
+<img src={{ site.baseurl }}{{ post.url }}/images/dominic.JPG height="00">
 
 ** For the record, the last two sentences are a joke. You should still remind
 Vignesh that the Jetson is a relay, even if you don't know what that means (I
