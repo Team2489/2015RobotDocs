@@ -22,17 +22,8 @@ support and rigidity) would interfere with the side rollers for the carriage. We
 decided instead to switch to U-tubing for the inside frame, which allows the
 carriage to ride on the inside.
 
-
-    images = [Image(filename='view1.PNG', width = 400), Image(filename='view2.PNG', width = 400)]
-    for i in images: display(i)
-
-
-![png](Team%202489%20Documentation_files/Team%202489%20Documentation_133_0.png)
-
-
-
-![png](Team%202489%20Documentation_files/Team%202489%20Documentation_133_1.png)
-
+<img src={{ site.baseurl }}{{ post.url }}/images/view1.PNG width="400">
+<img src={{ site.baseurl }}{{ post.url }}/images/view2.PNG width="400">
 
 The carriage is currently a piece of aluminum with angle stock on both sides.
 Each piece of angle stock supports two rollers, which ride on the inside of the
@@ -41,27 +32,10 @@ current timeframe, we need to order the 2" by 1" and the U-channel ASAP. We will
 also need to make sheet metal for gussets and assemble the superstructure and
 elevator soon.
 
-
-    Image(filename='carriage.PNG', width = 400)
-
-
-
-
-![png](Team%202489%20Documentation_files/Team%202489%20Documentation_135_0.png)
-
-
-
+<img src={{ site.baseurl }}{{ post.url }}/images/carriage.PNG width="400">
 Below you can see the whole robot CAD with the elevator, as it currently stands.
 
-
-    Image(filename='robot1.PNG', width = 400)
-
-
-
-
-![png](Team%202489%20Documentation_files/Team%202489%20Documentation_137_0.png)
-
-
+<img src={{ site.baseurl }}{{ post.url }}/images/robot1.PNG width="400">
 
 ### Claw
 
@@ -93,15 +67,7 @@ Also, Dominic brought spinach and cheese packet-things during the meeting. For
 this act of generosity, he received the below medal. Seriously though, they were
 delicious. Thanks Dominic!
 
-
-    Image(filename='dominic.JPG', width = 400)
-
-
-
-
-![jpeg](Team%202489%20Documentation_files/Team%202489%20Documentation_145_0.jpeg)
-
-
+<img src={{ site.baseurl }}{{ post.url }}/images/dominic.JPG width="400">
 
 ** For the record, the last two sentences are a joke. You should still remind
 Vignesh that the Jetson is a relay, even if you don't know what that means (I
