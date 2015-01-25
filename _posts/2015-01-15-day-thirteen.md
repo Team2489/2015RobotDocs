@@ -15,7 +15,7 @@ elevator which was able to carry a tote up the elevator. It can only lift one
 tote for now because the wood is too weak to carry more. An actual aluminum
 version, however, should be strong enough to successfully carry a package.
 
-<video src={{ site.baseurl}}{{ post.url }}/images/elevator-claw.mp4 width="600" height="500" controls></video>
+<video src={{ site.baseurl}}{{ post.url }}/images/elevator-claw.mp4 width="600" height="400" controls></video>
 
 ### Claw
 
