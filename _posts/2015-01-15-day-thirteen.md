@@ -1,15 +1,11 @@
 ---
 layout: post
-title:  "Day 15"
+title:  "Day 13"
 date:   2015-01-13 19:35:21
 categories: jekyll update
-excerpt: Today, the elevator sub-team added the second set of rollers allowing the
-prototype to function properly. The tote grabber was later attached to the
-elevator which was able to carry a tote up the elevator. It can only lift one
-tote for now because the wood is too weak to carry more. An actual aluminum
-version, however, should be strong enough to successfully carry a package.
+excerpt: Today, the elevator sub-team added the second set of rollers allowing the prototype to function properly. The tote grabber was later attached to the elevator which was able to carry a tote up the elevator. It can only lift one tote for now because the wood is too weak to carry more. An actual aluminum version, however, should be strong enough to successfully carry a package.
 ---
-## Day 15
+## Day 13
 
 ### Elevator
 
