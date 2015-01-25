@@ -7,7 +7,6 @@ excerpt: After a three day hiatus due to finals, we continued work on our protot
 ---
 
 
-##Day 21
 
 After a three day hiatus due to finals, we continued building our prototypes.
 

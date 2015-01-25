@@ -6,7 +6,6 @@ categories: jekyll update
 excerpt: On the prototyping side, the elevator team attached the passive grabber to the elevator and made it stronger. They supported it from the bottom as well and supported the outer frame of the elevator so it doesnt flex as much. The actual design will be made of aluminum, and will thus be much more rigid.
 
 ---
-## Day 22
 
 ### Elevator
 
@@ -68,7 +67,7 @@ Also, Dominic brought spinach and cheese packet-things during the meeting. For
 this act of generosity, he received the below medal. Seriously though, they were
 delicious. Thanks Dominic!
 
-<img src={{ site.baseurl }}{{ post.url }}/images/dominic.JPG height="00">
+<img src={{ site.baseurl }}{{ post.url }}/images/dominic.JPG height="150">
 
 ** For the record, the last two sentences are a joke. You should still remind
 Vignesh that the Jetson is a relay, even if you don't know what that means (I
