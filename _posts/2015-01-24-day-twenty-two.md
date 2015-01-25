@@ -22,8 +22,8 @@ support and rigidity) would interfere with the side rollers for the carriage. We
 decided instead to switch to U-tubing for the inside frame, which allows the
 carriage to ride on the inside.
 
-<img src={{ site.baseurl }}{{ post.url }}/images/view1.PNG width="400">
-<img src={{ site.baseurl }}{{ post.url }}/images/view2.PNG width="400">
+<img src={{ site.baseurl }}{{ post.url }}/images/view1.PNG width="300">
+<img src={{ site.baseurl }}{{ post.url }}/images/view2.PNG width="300">
 
 The carriage is currently a piece of aluminum with angle stock on both sides.
 Each piece of angle stock supports two rollers, which ride on the inside of the
@@ -33,6 +33,7 @@ also need to make sheet metal for gussets and assemble the superstructure and
 elevator soon.
 
 <img src={{ site.baseurl }}{{ post.url }}/images/carriage.PNG width="400">
+
 Below you can see the whole robot CAD with the elevator, as it currently stands.
 
 <img src={{ site.baseurl }}{{ post.url }}/images/robot1.PNG width="400">
