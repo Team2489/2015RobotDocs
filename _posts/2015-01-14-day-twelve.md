@@ -9,7 +9,7 @@ load tote lifting. The length of the claw was shortened to save space. The team
 also discussed ideas about a more secure method to grab the totes using rubber
 and/or polycarb hooks.
 ---
-###Grabber
+###TESTING
 
 Today, the grabber/claw sub-team built a claw prototype that supports bottom
 load tote lifting. The length of the claw was shortened to save space. The team
@@ -20,3 +20,4 @@ next major decision is a passive versus active grabber design.
 
 <img src={{ site.baseurl }}{{ post.url }}/images/claw1.JPG width="400">
 <img src={{ site.baseurl }}{{ post.url }}/images/elevator1.JPG width="400">
+
