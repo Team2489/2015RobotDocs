@@ -17,3 +17,16 @@ next major decision is a passive versus active grabber design.
 <img src={{ site.baseurl }}{{ post.url }}/images/claw1.JPG width="400">
 <img src={{ site.baseurl }}{{ post.url }}/images/elevator1.JPG width="400">
 
+### Elevator
+
+The elevator sub-team added more rollers to the prototype that was built
+yesterday. The 0th stage of the elevator is complete and the 1st stage will
+begin when we get more wood and rollers. We need to briefly show proof of
+concept with the elevator and the grabber, then build the actual design.
+
+### Electronics / Programming
+
+The electronics/programming sub-team labeled electronics and perfected the two
+joystick drive system on the tester robot.
+
+
